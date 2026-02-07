@@ -63,9 +63,4 @@ A speech recognition system for command-based control allows users to operate de
 - Background noise interference.
 - Limited vocabulary support on low-power embedded boards.
 - Need for efficient algorithms to balance accuracy and speed.
-
-This forms the foundation of a basic speech recognition system for embedded applications. If you’d like, I can sketch out a block diagram of the system architecture to make it visually clear. Would you like me to create that?
-
-
-
-This forms the foundation of a basic speech recognition system for embedded applications. If you’d like, I can sketch out a block diagram of the system architecture to make it visually clear. Would you like me to create that?
+![Image](https://github.com/user-attachments/assets/6f537bdd-f006-4bbe-82a0-afe6c3b57298)
